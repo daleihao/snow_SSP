@@ -1,5 +1,4 @@
-# snow_SSP
-Data and code for the NCC manuscript
+# Data and code for the NCC manuscript
 
 ## code
   Codes to process data and plot figures
