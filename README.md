@@ -6,7 +6,7 @@ Codes to process data and plot figures
 
 ## data
 
-CMIP6 data and ELM output
+CMIP6 data, ELM output, and field measurements of BC-in-snow concentration
 
 ## ELM_script
 
